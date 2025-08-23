@@ -2,7 +2,7 @@
 
 <a href="https://www.linkedin.com/in/jashon-lemons-linked7/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a sophomore pursuing a degree in Information Technology, committed to solving complex problems with creative and efficient approaches
+I am a sophomore at Texas Tech pursuing a degree in Information Technology, committed to solving complex problems with creative and efficient approaches
 
 ## Objective
 
