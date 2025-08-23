@@ -12,9 +12,9 @@ With a foundation in Information Technology and a growing passion for cybersecur
 
 | Skill | Associated Project |
 | --- | --- |
-| Monitoring & Systems Automation | <a href="[https://google.com](https://google.com/)">Pi-Hole Automated Domain Alert System</a> |
-| Log Analysis & Troubleshooting | Pi-Hole Automated Domain Alert System</a> |
-| Network Securtiy Awareness | Pi-Hole Automated Domain Alert System</a> |
+| Monitoring & Systems Automation | <a href="https://github.com/zanelemons/Pi-Hole-Automated-Domain-Alert-System">Pi-Hole Automated Domain Alert System</a> |
+| Log Analysis & Troubleshooting | <a href="https://github.com/zanelemons/Pi-Hole-Automated-Domain-Alert-System">Pi-Hole Automated Domain Alert System</a> |
+| Network Securtiy Awareness | <a href="https://github.com/zanelemons/Pi-Hole-Automated-Domain-Alert-System">Pi-Hole Automated Domain Alert System</a> |
 
 ## Tools
 
@@ -41,4 +41,4 @@ With a foundation in Information Technology and a growing passion for cybersecur
 
 ## Projects
 
-- Pi-Hole Automated Domain Alert System
+- <a href="https://github.com/zanelemons/Pi-Hole-Automated-Domain-Alert-System">Pi-Hole Automated Domain Alert System
