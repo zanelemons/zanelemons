@@ -1,5 +1,3 @@
-# github landing page
-
 # Hello, I'm Zane
 
 <a href="https://www.linkedin.com/in/jashon-lemons-linked7/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
