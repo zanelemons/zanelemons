@@ -4,10 +4,6 @@
 
 IT student passionate about cybersecurity, cloud security and continuous learning.
 
-## Objective
-
-With a foundation in Information Technology and a growing passion for cybersecurity, I am eager to begin my career in a Security Operations Center (SOC) role, wherein I will continue to learn and defend against cyber threats.
-
 ## Skills
 
 | Skill | Associated Project |
